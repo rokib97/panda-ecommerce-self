@@ -1,0 +1,29 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-carousel{
+    background-color: #fceae8;
+}
+
+.carousel-border{
+    border-radius: 15px;
+}
+.price{
+    color: #ff136f;
+}
+.button-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.bg-watch{
+    background-color: #ffa500;
+}
+.bg-bag{
+    background-color: #da70d6;
+}
+.bg-shoe{
+    background-color: #0000ff;
+}
